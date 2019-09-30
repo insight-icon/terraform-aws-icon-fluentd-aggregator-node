@@ -1,0 +1,16 @@
+.idea/
+_old/
+
+*account.tfvars
+*configure.tfvars
+
+_old/
+.idea/
+.pytest_cache
+
+*.tfstate/
+*.tfstate.backup
+*.tfplan
+
+.terragrunt-cache/
+.terraform/
